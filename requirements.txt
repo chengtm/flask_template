@@ -26,7 +26,7 @@
  #Mysql
  mysql-connector-python-rf==2.2.2
 
- requests==2.9.1
+ requests==2.20.0
 
  Flask-Celery-Helper==1.1.0
  redis==3.3.8
